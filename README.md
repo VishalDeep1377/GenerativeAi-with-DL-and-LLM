@@ -3,7 +3,7 @@
 ### A hands-on learning repository for LLM applications, deep generative models, and GPT-2 experimentation
 
 <p align="center">
-  <img src="diahram(1).png" width="850" alt="Project Architecture">
+  <img src="diagram (1).png" width="850" alt="Project Architecture">
 </p>
 
 ## ✨ Overview
