@@ -3,45 +3,7 @@
 
 ### A hands-on learning repository for LLM applications, deep generative models, and GPT-2 experimentation
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+">`{=html}
-`<img src="https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch 2.0+">`{=html}
-`<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">`{=html}
-`<img src="https://img.shields.io/badge/Groq-API-F55036?style=for-the-badge" alt="Groq API">`{=html}
-`<img src="https://img.shields.io/badge/License-MIT-2EA44F?style=for-the-badge" alt="MIT License">`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p>
-```
-`<strong>`{=html}Learn by building. Experiment with models. Understand
-the foundations.`</strong>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p>
-```
-`<a href="#-overview">`{=html}Overview`</a>`{=html} •
-`<a href="#-learning-path">`{=html}Learning Path`</a>`{=html} •
-`<a href="#-project-architecture">`{=html}Architecture`</a>`{=html} •
-`<a href="#-getting-started">`{=html}Get Started`</a>`{=html} •
-`<a href="#-modules">`{=html}Modules`</a>`{=html} •
-`<a href="#-contributing">`{=html}Contribute`</a>`{=html}
-```{=html}
-</p>
-```
-:::
 
-------------------------------------------------------------------------
-
-> \[!NOTE\] This README is based on the repository documentation
-> supplied with this request. Verify file names, dependency versions,
-> commands, and implemented behavior against the current source code
-> before treating every item as a tested capability.
 
 ## ✨ Overview
 
