@@ -1,4 +1,3 @@
-::: {align="center"}
 # GENERATIVE AI WITH DEEP LEARNING & LARGE LANGUAGE MODELS
 
 ### A hands-on learning repository for LLM applications, deep generative models, and GPT-2 experimentation
